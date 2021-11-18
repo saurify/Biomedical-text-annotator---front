@@ -1,0 +1,11 @@
+
+{
+    "/": {
+      "target": "https://bern.korea.ac.kr/plain",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
